@@ -1,0 +1,5 @@
+pycache/ *.py[cod] *$py.class
+poetry.lock
+*.log .log.*.bak *.swp *~
+dist/ build/ *.egg-info/ *.egg
+Thumbs.db Desktop.ini
