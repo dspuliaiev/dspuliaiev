@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Hi, I'm Denys Puliaiev 👋</h1>
-  <p><strong>Python Developer | Backend Engineer | Machine Learning Enthusiast </strong></p>
+  <p><strong>Python Developer | Machine Learning Enthusiast | Backend Engineer</strong></p>
 </div>
 
 ---
@@ -20,7 +20,23 @@ I'm a self-motivated and results-oriented Python developer with expertise in web
 - **Machine Learning:** NumPy, Pandas, Scikit-learn, TensorFlow
 - **Others:** ORM (Django), ODM (MongoDB), SQLAlchemy, Alembic, Redis
 
-[//]: # 
+---
+
+[//]: # (### 📈 GitHub Stats)
+
+[//]: # ()
+[//]: # (<p align="center">)
+
+[//]: # ()
+[//]: # ([//]: # &#40;  <img src="https://github-readme-stats.vercel.app/api?username=dspuliaiev&show_icons=true&theme=default&hide=stars,issues" alt="GitHub Stats" />&#41;)
+[//]: # ()
+[//]: # (  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dspuliaiev&layout=compact&theme=default&hide=html,css,json,yaml" alt="Top Languages" />)
+
+[//]: # ()
+[//]: # (</p>)
+
+[//]: # ()
+[//]: # (---)
 
 ### 📫 Contact Me
 
