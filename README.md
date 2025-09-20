@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Hi, I'm Denys Puliaiev 👋</h1>
-  <p><strong>Python Developer | Machine Learning Enthusiast | Backend Engineer</strong></p>
+  <p><strong>Python Developer | Backend Engineer | Machine Learning Enthusiast </strong></p>
 </div>
 
 ---
