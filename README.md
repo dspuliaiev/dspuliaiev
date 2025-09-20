@@ -20,19 +20,7 @@ I'm a self-motivated and results-oriented Python developer with expertise in web
 - **Machine Learning:** NumPy, Pandas, Scikit-learn, TensorFlow
 - **Others:** ORM (Django), ODM (MongoDB), SQLAlchemy, Alembic, Redis
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-
-[//]: # (  <img src="https://github-readme-stats.vercel.app/api?username=dspuliaiev&show_icons=true&theme=default&hide=stars,issues" alt="GitHub Stats" />)
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dspuliaiev&layout=compact&theme=default&hide=html,css,json,yaml" alt="Top Languages" />
-
-</p>
-
----
+[//]: # 
 
 ### 📫 Contact Me
 
