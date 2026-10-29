@@ -42,7 +42,7 @@ I'm a self-motivated and results-oriented Python developer with expertise in web
 
 - 💼 LinkedIn: [Denys Puliaiev](https://www.linkedin.com/in/denys-puliaiev)
 - 💬 Telegram: [@Denys_Puliaiev](https://t.me/Denys_Puliaiev)
-- 🌐 Portfolio: [denys-puliaiev-portfolio.koyeb.app](https://denys-puliaiev-portfolio.koyeb.app/)
+- 🌐 Portfolio: [denys-puliaiev-portfolio.koyeb.app]([https://denys-puliaiev-portfolio.apps.mistral.run/)
 
 ---
 
